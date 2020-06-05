@@ -204,10 +204,10 @@ select.input_text {
 .textarea {
 	background-color:#ffffff;
 	border-bottom: 2px solid #ffffff;
-	border-color: #7EC7C0;
+	border-color: #9E0B06;
 	
 	width: 100%;
-	color:#ebebeb;
+	color:#000000;
 	font-size: 16px;
 	margin-bottom: 10px;
 	outline: none;
